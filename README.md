@@ -59,10 +59,10 @@ The system is designed with a modular architecture to ensure scalability, securi
 ## 📊 System Architecture
 
 ### Class Diagram
-![Class Diagram](images/class_diagram.png)
+![Class Diagram](class_diagram.jpeg)
 
 ### Sequence Diagram
-![Sequence Diagram](images/sequence_diagram.png)
+![Sequence Diagram](sequence_diagram.jpeg)
 
 ---
 
