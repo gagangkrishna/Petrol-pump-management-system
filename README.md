@@ -69,7 +69,7 @@ The system is designed with a modular architecture to ensure scalability, securi
 ## 📄 Project Report
 
 The complete project documentation is available here:  
-[Petrol_Pump_Management_System_Report.pdf](Petrol_Pump_Management_System_Report.pdf)
+[Petrol_Pump_Management_System_Report.pdf](PetrolPumpManagementSystemReport.pdf)
 
 ---
 
